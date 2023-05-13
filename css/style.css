@@ -44,7 +44,12 @@ body {
     font-weight: 800; 
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03em
+    letter-spacing: 0.03em;
+    color: var(--secondary-color);
+    text-transform: uppercase;
+}
+
+.logo-span {
     color: var(--main-color);
 }
 
