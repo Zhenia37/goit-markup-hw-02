@@ -87,6 +87,10 @@ body {
 
 /* hero */
 
+.header{
+    background-color: #2e2f42;
+}
+
 .hero-title {
     font-size: 56px;
     line-height: 1.07;
@@ -109,12 +113,13 @@ body {
     align-items: center;
     letter-spacing: 0.04em;
     color: var(--hero-color);
+    background-color: #4D5AE5
     cursor: pointer;
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
-    background-color: var(--secondary-color);
+    background-color: #404BBF;
 }
 
 /* business solution */
