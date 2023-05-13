@@ -185,17 +185,21 @@ body {
 
 /* footer */
 
+.footer {
+    background-color: #2e2f42;
+}
+
 .footer-logo {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--footer-color);
+    color: #4d5ae5;
 }
 
 .footer-text {
@@ -203,6 +207,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--footer-color);
+}
+
+.footer-logo-span {
+    color: #f4f4fd;
 }
 
 /* portfolio filter our works */
