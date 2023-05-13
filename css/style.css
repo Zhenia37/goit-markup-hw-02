@@ -140,10 +140,6 @@ body {
 
 /* our work */
 
-.product {
-    background-color: #F4F4FD;
-}
-
 .product-title {
     font-weight: 700;
     font-size: 36px;
@@ -155,6 +151,10 @@ body {
 }
 
 /* our team */
+
+.team {
+    background-color: #F4F4FD;
+}
 
 .team-title {
     font-weight: 700;
